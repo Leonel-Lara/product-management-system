@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|c:\\users\\leone\\desktop\\desafio_areco\\backend\\areco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|solutionrelative:areco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|c:\\users\\leone\\desktop\\desafio_areco\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|c:\\users\\leone\\desktop\\desafio_areco\\backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|c:\\users\\leone\\desktop\\desafio_areco\\backend\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|solutionrelative:dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|c:\\users\\leone\\desktop\\desafio_areco\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|c:\\users\\leone\\desktop\\desafio_areco\\backend\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|solutionrelative:dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|c:\\users\\leone\\desktop\\desafio_areco\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|c:\\users\\leone\\desktop\\desafio_areco\\backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A9AB6F-C6CC-6B13-E1CF-790340CB9CBF}|Areco.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:35:39.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\DTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "DTOs\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\DTOs\\PagedResult.cs",
+              "RelativeToolTip": "DTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T19:48:51.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvz4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T21:24:47.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T21:23:31.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T21:12:29.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T21:08:58.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Areco.csproj",
+              "DocumentMoniker": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Areco.csproj",
+              "RelativeDocumentMoniker": "Areco.csproj",
+              "ToolTip": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Areco.csproj",
+              "RelativeToolTip": "Areco.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T21:01:07.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leone\\Desktop\\desafio_areco\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T20:40:17.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

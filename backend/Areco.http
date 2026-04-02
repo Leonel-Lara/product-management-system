@@ -1,0 +1,6 @@
+@Areco_HostAddress = http://localhost:5205
+
+GET {{Areco_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
